@@ -1,0 +1,7 @@
+#mainbar, .question, #answers, .answer, .answercell, table, p, tr, #answers-header {
+	width: 100% !important;
+}
+
+tr {
+	float: left;
+}
